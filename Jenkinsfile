@@ -8,7 +8,7 @@ customWorkspace "/mnt/pipleline"
 stages {
 stage ("stage-1") {
 steps {
-echo "Hello this is 23Q1 branch "
+echo "Hello this is 23Q2 branch "
 }
 }
 }
